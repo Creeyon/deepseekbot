@@ -14,13 +14,13 @@ This project is a Discord bot that interacts with the DeepSeek AI API. It proces
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/discord-bot.git
-   cd discord-bot
+   git clone https://github.com/Creeyon/deepseekbot.git
+   cd deepseekbot
    ```
 
 2. Create a `.env` file in the root directory and add your API keys:
    ```
-   API_KEY=your_deepseek_api_key
+   DEEPSEEK_API_KEY=your_deepseek_api_key
    DISCORD_TOKEN=your_discord_bot_token
    ```
 
