@@ -1,4 +1,4 @@
-# Discord Bot Project
+# Deepseek Middleman Bot
 
 This project is a Discord bot that interacts with the DeepSeek AI API. It processes commands from users and returns responses as messages in Discord.
 
@@ -40,7 +40,7 @@ Make sure your bot is invited to a server and has the necessary permissions to r
 
 ## Commands
 
-The bot supports various commands that interact with the DeepSeek AI API. You can type commands in any text channel where the bot is present.
+The bot supports sending messages and recieving responses through the !ask command.
 
 ## Contributing
 
